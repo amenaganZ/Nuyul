@@ -1,4 +1,5 @@
 # DARK-FB VERSI BANGLADESH 🔥
+<img src ="https://github.com/amenaganZ/Nuyul/blob/master/IMG_20200508_022046.jpg">
 ```
 - apt-get update && pkg upgrade -y
 
