@@ -19,5 +19,5 @@
 
 - cd Nuyul
 
-- python2 mbf-bangladesh.py
+- sh install.sh
 ```
