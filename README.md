@@ -11,9 +11,7 @@
 
 - pip install --upgrade pip
 
-- pip install requests mechanize cookiejar
-
-- pip2 install requests mechanize cookiejar
+- pip2 install requests mechanize
 
 - git clone https://github.com/amenaganZ/Nuyul
 
